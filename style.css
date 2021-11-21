@@ -127,10 +127,6 @@ header ul li a{
     transform: translateY(-15px);
 }
 
-.thumb li img{
-    /* max-width: 60px; */
-}
-
 .social{
     position: absolute;
     top: 50%;
