@@ -49,6 +49,11 @@ header ul li a{
     text-decoration: none;
 }
 
+header ul li a:hover{
+    border-bottom: 1px solid #333;
+    color: #017143;
+}
+
 .content{
     position: relative;
     width: 100%;
