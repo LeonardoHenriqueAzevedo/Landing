@@ -3,7 +3,8 @@ function imgSlider(img) {
     document.querySelector('.starbucksImg').src = img;
 };
 
-function changeCircleColor(a) {
-
+function changeCircleColor(imgColor) {
+    const circle = document.querySelector('.circle');
+    circle.style.background = imgColor;
 }
 
