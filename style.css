@@ -107,3 +107,7 @@ header ul li a{
 .content .imgBox img{
     max-width: 340px;
 }
+
+.thumb{
+    position: absolute;
+}
