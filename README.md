@@ -3,7 +3,7 @@ A Starbucks landing page to showcase the products with the option to click and c
 
 ## Interface 
 <h1 align="center">
-    <img alt="starbucks_GIF" title="interface_GIF" src="github/starbucks_interface.gif">
+    <img alt="starbucks_GIF" title="interface_GIF" src="github/starbucks-interface.gif">
 </h1>
 
  
