@@ -1,4 +1,3 @@
 # ✔️ Project
-A website to find persons to donate blood, register them and after this we can pick the information they passed to us to contact for the blood donation.
-
+A Starbucks landing page to showcase the products with the option to click and change the product being shown.
  
